@@ -1,2 +1,2 @@
-export const URL_SHIPMMENT = "https://localhost:7174";
-export const URL_CUSTOMER = "https://localhost:7070";
+export const URL_SHIPMMENT = "http://localhost:8090";
+export const URL_CUSTOMER = "http://localhost:8053";
